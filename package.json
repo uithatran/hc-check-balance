@@ -1,0 +1,33 @@
+{
+  "name": "hc-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uithatran/hc-check-balance.git"
+  },
+  "keywords": [
+    "hc-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "uithatran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uithatran/hc-check-balance/issues"
+  },
+  "homepage": "https://github.com/uithatran/hc-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "hc-gas-convert": "1.0.0"
+
+  }
+}
